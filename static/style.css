@@ -1,0 +1,64 @@
+body {
+  background-color: black;
+}
+
+.no-underline {
+  text-decoration: none;
+}
+
+.btn-genre {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 0;
+}
+
+.genre {
+  background-color: black;
+  color: white;
+  border: 1px solid white;
+  margin-right: 5px;
+  border-radius: 0;
+}
+
+.search-bar {
+  background-color: black;
+  color: white;
+  border-color: white;
+  border-radius: 0;
+}
+
+.search-bar::placeholder {
+  color: white;
+}
+
+.search-btn {
+  background-color: white !important;
+  color: black !important;
+  border-color: white;
+  border-radius: 0;
+}
+
+.search-btn:hover {
+  background-color: black;
+  border-color: white;
+  color: white;
+}
+
+.form-control {
+  background-color: black;
+  color: white;
+  border-color: white;
+}
+.form-control:focus {
+  background-color: black;
+  color: white;
+  border-color: white;
+}
+.btn-primary {
+  background-color: black;
+  color: white;
+  border-color: white;
+}
